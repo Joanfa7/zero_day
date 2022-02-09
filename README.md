@@ -1,8 +1,8 @@
-#0x03 Git
+# 0x03 Git
 
-##Learning Ojectives
+## Learning Ojectives
 
-###General
+### General
 
 1. What is source code management  
 2. What is Git  
