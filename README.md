@@ -1,9 +1,12 @@
 #0x03 Git
+
 ##Learning Ojectives
+
 ###General
+
 1. What is source code management  
 2. What is Git  
-3.What is GitHub  
+3. What is GitHub  
 4. What is the difference between Git and GitHub  
 5. How to create a repository  
 6. What is a README  
