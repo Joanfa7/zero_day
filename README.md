@@ -4,7 +4,7 @@
 
 ### General
 
-1. What is source code management  
+1. **What is source code management  
 2. What is Git  
 3. What is GitHub  
 4. What is the difference between Git and GitHub  
@@ -18,6 +18,6 @@
 12. How to create a branch  
 13. How to merge branches  
 14. How to work as collaborators on a project  
-15. Which files should and which files should not appear in your repo  
+15. Which files should and which files should not appear in your repo**  
 
 ![Git logo](https://tse1.mm.bing.net/th?id=OIP.Aetre8Oj5vF6G4Yx4a9fZAHaHa&w=690&c=7&pid=Api&p=0)
